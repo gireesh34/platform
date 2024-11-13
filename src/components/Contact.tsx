@@ -24,7 +24,7 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-cyan-500 mt-1" />
               <div>
                 <h3 className="text-xl font-semibold mb-2">Call Us</h3>
-                <p className="text-gray-400">+1 (555) 123-4567</p>
+                <p className="text-gray-400">+91 08554558885</p>
               </div>
             </div>
             <div className="flex items-start space-x-4">
